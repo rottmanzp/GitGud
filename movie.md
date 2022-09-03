@@ -5,7 +5,7 @@ how about i explain Twilight Imperium 4th edition
 that'll be enough, i think
 yeah
 
-#Twilight Imperium for Dummies#
+#Twilight Imperium for Dummies
 
 ##how to win:
 Get 10 victory points.
